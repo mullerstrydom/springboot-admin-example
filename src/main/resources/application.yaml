@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: springboot-admin-example
+
+server:
+  port: 8000
